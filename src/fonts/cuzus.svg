@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2019 by original authors @ fontello.com</metadata>
+<defs>
+<font id="cuzus" horiz-adv-x="1000" >
+<font-face font-family="cuzus" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="cuzus-square" unicode="&#xe800;" d="M894 9l-471-54 211 728 138-24-144-543 212 19c18 2 31 16 31 33v340 133l50-9c41-8 72-40 79-79v134c0 89-73 162-162 162h-674c-84 0-154-65-162-147 10 44 49 76 95 76 6 0 11-1 17-2l489-87-37-127-381 58c-21 3-39-13-39-34v-481c0-20 16-35 36-34l248 26-42-146-253-28c-5-1-9-1-14-1-59 0-110 43-119 102v-11c0-89 73-162 162-162h674c89 0 162 73 162 162v98c-8-53-51-96-106-102z" horiz-adv-x="1001" />
+
+<glyph glyph-name="cuzus" unicode="&#xe801;" d="M170 64v562c0 25 22 43 45 39l446-67 43 148-571 102c-6 1-13 2-20 2-61 0-113-50-113-113v-745c0-79 64-142 141-142 6 0 11 0 17 1l294 33 50 171-290-31c-23-1-42 17-42 40z m906 615l-60 11v-155-397c0-20-15-37-35-39l-248-23 169 634-162 29-245-850 549 63c71 8 125 69 125 140v476c0 55-39 102-93 111z" horiz-adv-x="1169" />
+</font>
+</defs>
+</svg>
